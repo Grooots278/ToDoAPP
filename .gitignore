@@ -46,10 +46,6 @@ packages/
 ## Тестирование
 /coverage
 
-## Продакшн сборка
-/build
-/dist
-
 ## Разное
 .DS_Store
 .env.local
